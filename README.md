@@ -8,11 +8,6 @@ Digital Forensics Student • Malware Analysis • DFIR • Cybersecurity
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Digital+Forensics+Student;Cybersecurity+Enthusiast;Malware+Analysis+Learner;Blue+Team+%7C+DFIR+%7C+OSINT;Always+Learning+Something+New!" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aishik356&label=Profile+Views&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/aishik356?style=for-the-badge"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
@@ -97,53 +92,15 @@ Digital Forensics Student • Malware Analysis • DFIR • Cybersecurity
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishik356&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishik356&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishik356&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishik356&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aishik356&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/aishik-mitra-488189284/">
+<a href="https://www.linkedin.com/in/aishik-mitra-1b6991438/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/its_sanji_34/">
+<a href="https://www.instagram.com/its_sanji_36/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -159,7 +116,7 @@ Digital Forensics Student • Malware Analysis • DFIR • Cybersecurity
 
 ### 💬 Discord
 
-- **cybergamer_7475**
+- **cyberdemon_35**
 - **rocky_35656**
 
 ---
